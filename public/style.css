@@ -15,9 +15,8 @@
    border-radius: 50px;
  }
 
-
 html{
-  background: url(https://www.flickr.com/photos/armgov/4690896975) no-repeat center fixed;
+  background: url(http://bit.ly/flickr-img) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
