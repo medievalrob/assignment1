@@ -4,3 +4,11 @@
   marging: 10px;
   text-align: center;
 }
+
+html{
+  background: url(https://www.flickr.com/photos/khayman68/126966383/in/photolist-Tv7T4-e9GFG-ceUNdy-5TSBbW-dz4hB2-d5Tazw-dz4hLH-cdJFz-6qCP7h-7ocS4A-FmnQD-a3d5fs-c8Dmyj-fc89cB-fRUeRS-4nvqBz-fgnGxN-9shWAt-ehtBGU-8AXdd9-a85d2M-fnDmfk-dbjoi5-u8Mp-iBgpo-avZFdG-6Q68rT-hssKjV-fsSZya-fyqeYV-ePFL6-9VrLVy-9dLZSE-6vYM5G-6b6ewn-8Jehqx-dze7Ro-mwbMAe-cgPKCs-2YV2pM-3VciA-aieEg7-ekrrSs-iddyt-dK7NSH-h5xpHw-bsGiZv-8XT8t5-6KemXN-enGpAh/) no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
